@@ -1,0 +1,5 @@
+site_name: estudio-piloto-fertile
+
+nav:
+    - Principal: index.md
+theme: mkdocs
