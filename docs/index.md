@@ -29,9 +29,14 @@ Los módulos están organizados de la siguiente manera:
 
 3. *Pensamiento computacional*: Estudio asíncrono estimado en 2 horas y una sesión de 2h presencial el  **viernes 23 de febrero**
 
-4. *Blended Learning*: Estudio asíncrono estimado en 2 y sesión síncrona online de 1h
+4. *Blended Learning*: Estudio asíncrono estimado en 2 y sesión síncrona online de 1h el **martes 27 de febrero a las 18:00h**
 
 5. *Metodología de diseño FERTILE* : Estudio asíncrono estimado en 2 y sesión presencial de 3h el **viernes 1 de marzo**
+
+Las sesiones presenciales serán:
+
++ Viernes 23 de febrero de 17 a 20 en Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles
++ Viernes 1 de marzo de 17 a 20 en Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles
 
 ## Profesorado
 
@@ -143,18 +148,81 @@ Este módulo de pensamiento computacional se divide en tres partes:
 
 ### Materiales de estudio
 
-1. Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*.
+#### Taller presencial
 
-2. Materiales para el estudio y comprensión de las habilidades que implica el pensamiento computacional. Los participantes estudiarán de manera asíncrona estos materiales. 
+Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*.
+
+#### Estudio sobre habilidades de pensamiento computacional
+
+Materiales para el estudio y comprensión de las habilidades que implica el pensamiento computacional. Los participantes estudiarán de manera asíncrona estos materiales. 
 
 En primer lugar tendréis que estudiar esta [Introducción al pensamiento computacional](materiales/CT_01.pdf), comprendiendo y reflexionando acerca de qué significa el pensamiento computacional y qué habilidades están implicadadas.
 
 En segundo lugar para afianzar conocimientos realizaréis estas [actividades acerca de la identificación y clasificación de las habilidades del pensamiento computacional](materiales/CT_02.pdf).
 
-3. Trabajo en equipo para completar en la ficha de trabajo del proyecto de arte y robótica la última parte referente al pensamiento computacional.
+#### Trabajo en equipo
+
+Trabajo en equipo para completar en la ficha de trabajo del proyecto de arte y robótica la última parte referente al pensamiento computacional.
 
 En el equipo de trabajo seguiréis trabajando en la idea inicial de vuestro proyecto integrando robótica y arte , prestando especial atención a trabajar las habilidades de CT. Completaréis la hoja de trabajo de vuestro proyecto con las habilidades de pensamiento computacional implicadas.
 
 Cuando tengáis lista la ficha de trabajo enviadla por correo electrónico a los profesores indicando los componentes del grupo *antes de la sesión presencial del viernes 1 de marzo*.
+
+## Módulo 4: Blended learning
+
+### Objetivo
+
+En este módulo haremos una introducción al aprendizaje mixto (blended learning) y en concreto al aprendizaje mixto en robótica usando simuladores.
+
+### Modalidad de estudio
+
+Este módulo tendrá dos tipos de actividades:
+
+1. Habrá una serie de materiales de estudio acerca del aprendizaje mixto (blended) learning y de simuladores de robótica educativa que tendréis que trabajar de manera asíncrona
+
+2. Habrá un taller online síncrono de 1h de duración para trabajar de manera práctica con el simulador Kibotics. Este taller será el **27 de febrero a las 18:00** os haremos llegar un enlace para la sesión.
+
+### Materiales de estudio
+
++ En primer lugar tendréis que estudiar conceptos generales acerca del aprendizaje mixto. Para ello os dejamos este [documento](materiales/Blended_01.pdf) que recoge algunas experiencias de educadores de distintos paises. Al final del documento encontraréis un código QR para que podáis compartir vuestras experiencias e ideas en un padlet.
+
++ Los simuladores son los grandes desconocidos de la robótica educativa. Sin embargo, como se mostraba en el documento del punto anterior pueden ser de enorme utilidad en la enseñanzad de la robótica por muchas razones. Vuestra tarea es conocer algunos de los más empleados en contextos educativos a través de estos [vídeos de nuestro canal de YouTube](https://www.youtube.com/watch?v=A1tai5BTSWA&list=PL1xHqPEGzU_J2p90SfhGPW-Q5LU2Dzy2S).
+
++ Por último os toca enriquecer vuestro proyecto. Para ello, empleando [esta hoja de trabajo](materiales/Blended_02.pdf) enriqueceréis vuestro proyecto pensando en actividades que puedan realizarse en diferentes modalidades de trabajo y usando simuladores. Cuando lo tengáis listo enviádnos la hoja a los profesores del curso.
+
+## Módulo 5: Metodología de diseño FERTILE (FDM)
+
+### Objetivo
+El objetivo de este módulo es conocer en profundidad la metodología FERTILE. Con lo aprendido en todo el curso cada equipo tendrá que diseñar un proyecto de robótica y arte siguiendo los pasos de la metodología FERTILE y realizar la evaluación.
+
+### Modalidad de estudio
+
+Gran parte de los contenidos asociados a este módulo se impartirán prensencialmente el **viernes 1 de marzo de 2024**. El resto serán de estudio personal asíncrono.
+
+### Materiales de estudio
+
+La sesión presencial del 1 de marzo tendrá dos partes:
+
+#### Metodología FERTILE.
+
+El objetivo será conocer y familiarizarse con la metodología FERTILE y los pasos de diseño. Para ello emplearemos:
+
+  + Este [video](https://www.youtube.com/watch?v=2ZagIKMKdpEhttps://www.youtube.com/watch?v=2ZagIKMKdpE) sobre la metodlogía FERTILE (FDM)
+  + Veremos y comentaremos distintos [ejemplos](https://www.youtube.com/watch?v=-tVMhp0KQY4&list=PL1xHqPEGzU_InVaW-oB_Cq4kVhZrM5Jq8) diseñados e implementados según la FDM.
+  + Trabajaréis en grupos analizando los ejemplos vistos completando [esta hoja de trabajo](materiales/FDM_01.pdf)
+
+#### Introducción a la Community Platform (CP)
+
+El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo la metodología FERTILE a través de la herramienta CP que pretende facilitar el proceso. Para ello contaremos con las siguientes herramientas:
+
++ [Vídeo introductorio](https://www.youtube.com/watch?v=pKsTioO7TsA) Sería conveniente que lo visualizáseis ante del taller de diseño que se impartirá el día 1 de marzo
++ Taller de diseño de un proyecto usando la CP.
+
+
+#### Diseño y evaluación de un proyecto de robótica y arte siguiendo FDM.
+
+Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
+
+
 
 
