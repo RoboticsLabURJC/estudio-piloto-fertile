@@ -35,8 +35,8 @@ Los módulos están organizados de la siguiente manera:
 
 Las sesiones presenciales serán:
 
-+ Viernes 23 de febrero de 17 a 20 en Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles
-+ Viernes 1 de marzo de 17 a 20 en Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles
++ Viernes 23 de febrero de 17 a 20 en **Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles**
++ Viernes 1 de marzo de 17 a 20 en **Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles**
 
 ## Profesorado
 
