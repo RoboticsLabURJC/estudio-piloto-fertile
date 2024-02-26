@@ -217,6 +217,7 @@ El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo l
 
 + [Vídeo introductorio](https://www.youtube.com/watch?v=pKsTioO7TsA) Sería conveniente que lo visualizáseis ante del taller de diseño que se impartirá el día 1 de marzo
 + Taller de diseño de un proyecto usando la CP.
+    + [Hoja de trabajo] (https://docs.google.com/forms/d/e/1FAIpQLSdLh7BXIRjz79Z4s48J9QChLrT2JvZPuK1FWjCDUhTHOacyzQ/viewform?usp=sf_link)
 
 
 #### Diseño y evaluación de un proyecto de robótica y arte siguiendo FDM.
