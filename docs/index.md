@@ -188,6 +188,8 @@ Este módulo tendrá dos tipos de actividades:
 
 + Los simuladores son los grandes desconocidos de la robótica educativa. Sin embargo, como se mostraba en el documento del punto anterior pueden ser de enorme utilidad en la enseñanzad de la robótica por muchas razones. Vuestra tarea es conocer algunos de los más empleados en contextos educativos a través de estos [vídeos de nuestro canal de YouTube](https://www.youtube.com/watch?v=A1tai5BTSWA&list=PL1xHqPEGzU_J2p90SfhGPW-Q5LU2Dzy2S).
 
+Uno de los simuladores que utilizaréis es el que ofrece la plataforma web [Kibotics](materiales/kibotics-2024.pdf). Podéis usar este simulador a vuestro gusto, por ejemplo  el curso "Robots con arte". Registraos en la [web esta plataforma]((https://kibotics.org) y enviadnos vuestro login para activaros ese curso.
+
 + Por último os toca enriquecer vuestro proyecto. Para ello, empleando [esta hoja de trabajo](materiales/Blended_02.pdf) enriqueceréis vuestro proyecto pensando en actividades que puedan realizarse en diferentes modalidades de trabajo y usando simuladores. Cuando lo tengáis listo enviádnos la hoja a los profesores del curso.
 
 ## Módulo 5: Metodología de diseño FERTILE (FDM)
