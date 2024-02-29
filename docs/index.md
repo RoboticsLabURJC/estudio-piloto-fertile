@@ -150,7 +150,7 @@ Este módulo de pensamiento computacional se divide en tres partes:
 
 #### Taller presencial
 
-Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*.
+Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*. [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller de habilidades de pensamiento computacional.
 
 #### Estudio sobre habilidades de pensamiento computacional
 
@@ -227,5 +227,7 @@ El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo l
 Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
 
 
+## IMPORTANTE: Encuesta de evaluación del curso
 
+Como sabéis es un curso piloto. Para el rpyecto FERTILE vuestra realimentación es de vital importancia. Por eso os pedimos que rellenéis [esta encuesta](https://docs.google.com/forms/d/1gx1-9yhiGUVCaM-53qBxQJEzsINu_k0G9wuG5UlwQx4/viewform?edit_requested=true). Muchas gracias por vuestra colaboración.
 
