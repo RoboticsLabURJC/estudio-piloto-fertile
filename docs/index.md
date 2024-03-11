@@ -25,18 +25,22 @@ Los módulos están organizados de la siguiente manera:
 
 1. *Introducción* : Estudio asíncrono estimado en 3 horas
 
-2. *Interdisciplinariedad*: Estudio asíncrono estimado en 2 horas y una sesión de 1h presencial el **viernes 23 de febrero**
+2. *Interdisciplinariedad*: Estudio asíncrono estimado en 2 horas y una sesión de 1h presencial el **viernes 23 de febrero** URJC, **lunes 11 de marzo** UVA
 
-3. *Pensamiento computacional*: Estudio asíncrono estimado en 2 horas y una sesión de 2h presencial el  **viernes 23 de febrero**
+3. *Pensamiento computacional*: Estudio asíncrono estimado en 2 horas y una sesión de 2h presencial el  **viernes 23 de febrero**, **lunes 11 de marzo** UVA
 
-4. *Blended Learning*: Estudio asíncrono estimado en 2 y sesión síncrona online de 1h el **martes 27 de febrero a las 18:00h**
+4. *Blended Learning*: Estudio asíncrono estimado en 2 y sesión síncrona online de 1h el **martes 27 de febrero a las 18:00h**, **miércoles 15 de marzo a las 18:00** UVA
 
-5. *Metodología de diseño FERTILE* : Estudio asíncrono estimado en 2 y sesión presencial de 3h el **viernes 1 de marzo**
+5. *Metodología de diseño FERTILE* : Estudio asíncrono estimado en 2 y sesión presencial de 3h el **viernes 1 de marzo**, **lunes 18 de marzo** UVA
 
-Las sesiones presenciales serán:
+Las sesiones presenciales serán en la URJC:
 
 + Viernes 23 de febrero de 17 a 20 en **Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles**
 + Viernes 1 de marzo de 17 a 20 en **Laboratorios Polivalentes III. Aula Informática 109 - Campus de Móstoles**
+
+Las sesiones presenciales en la UVa serán:
++ Lunes 11 de marzo de 17 a 20 en **aula L204**
++ Lunes 18 de marzo de 17 a 20 en **aula L204**
 
 ## Profesorado
 
@@ -103,7 +107,7 @@ El objetivo de este módulo es introducir la interdisciplinariedad, en nuestro c
 
 ### Modalidad de estudio
 
-Todos los materiales de este módulo están diseñados para que los participantes los trabajen asincronamente, excepto el taller de **Familiarización con los materiales de robótica** que se impartirá en la primera sesión presencial el viernes 23 de febrero.
+Todos los materiales de este módulo están diseñados para que los participantes los trabajen asincronamente, excepto el taller de **Familiarización con los materiales de robótica** que se impartirá en la primera sesión presencial el viernes 23 de febrero/lunes 11 de marzo.
 
 ### Materiales de estudio
 
@@ -140,7 +144,7 @@ El objetivo de este módulo es la reflexión sobre las habilidades de pensamient
 
 Este módulo de pensamiento computacional se divide en tres partes:
 
-1. Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*.
+1. Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero* en la URJC y el *11 de marzo* en la UVA.
 
 2. Materiales para el estudio y comprensión de las habilidades que implica el pensamiento computacional. Los participantes estudiarán de manera asíncrona estos materiales.
 
@@ -150,7 +154,7 @@ Este módulo de pensamiento computacional se divide en tres partes:
 
 #### Taller presencial
 
-Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero*. [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller de habilidades de pensamiento computacional.
+Un taller presencial de 2h de duración sobre **habilidades del pensamiento computacional** que se impartirá en la sesión presencial del *23 de febrero* en la URJC y el *11 de marzo* en la UVA. [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller de habilidades de pensamiento computacional.
 
 #### Estudio sobre habilidades de pensamiento computacional
 
@@ -165,8 +169,8 @@ En segundo lugar para afianzar conocimientos realizaréis estas [actividades ace
 Trabajo en equipo para completar en la ficha de trabajo del proyecto de arte y robótica la última parte referente al pensamiento computacional.
 
 En el equipo de trabajo seguiréis trabajando en la idea inicial de vuestro proyecto integrando robótica y arte , prestando especial atención a trabajar las habilidades de CT. Completaréis la hoja de trabajo de vuestro proyecto con las habilidades de pensamiento computacional implicadas.
-
-Cuando tengáis lista la ficha de trabajo enviadla por correo electrónico a los profesores indicando los componentes del grupo *antes de la sesión presencial del viernes 1 de marzo*.
+ 
+Cuando tengáis lista la ficha de trabajo enviadla por correo electrónico a los profesores indicando los componentes del grupo *antes de la sesión presencial del viernes 1 de marzo (URJC) lunes 18 de marzo (UVA)*.
 
 ## Módulo 4: Blended learning
 
@@ -199,11 +203,11 @@ El objetivo de este módulo es conocer en profundidad la metodología FERTILE. C
 
 ### Modalidad de estudio
 
-Gran parte de los contenidos asociados a este módulo se impartirán prensencialmente el **viernes 1 de marzo de 2024**. El resto serán de estudio personal asíncrono.
+Gran parte de los contenidos asociados a este módulo se impartirán prensencialmente el **viernes 1 de marzo de 2024** en la URJC y el **lunes 18 de marzo de 2014** en la UVA. El resto serán de estudio personal asíncrono.
 
 ### Materiales de estudio
 
-La sesión presencial del 1 de marzo tendrá dos partes:
+La sesión presencial del 1 de marzo/18 de marzo tendrá dos partes:
 
 #### Metodología FERTILE.
 
@@ -217,7 +221,7 @@ El objetivo será conocer y familiarizarse con la metodología FERTILE y los pas
 
 El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo la metodología FERTILE a través de la herramienta CP que pretende facilitar el proceso. Para ello contaremos con las siguientes herramientas:
 
-+ [Vídeo introductorio](https://www.youtube.com/watch?v=pKsTioO7TsA) Sería conveniente que lo visualizáseis ante del taller de diseño que se impartirá el día 1 de marzo
++ [Vídeo introductorio](https://www.youtube.com/watch?v=pKsTioO7TsA) Sería conveniente que lo visualizáseis ante del taller de diseño que se impartirá el día 1 de marzo (URJC) 18 de marzo (UVA)
 + Taller de diseño de un proyecto usando la CP.
     + [Hoja de trabajo](https://docs.google.com/forms/d/e/1FAIpQLSdLh7BXIRjz79Z4s48J9QChLrT2JvZPuK1FWjCDUhTHOacyzQ/viewform?usp=sf_link)
 
