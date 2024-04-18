@@ -42,6 +42,11 @@ Los contenidos del curso están repartidos de la siguiente manera:
 
 5. *Metodología de diseño FERTILE* : Estudio asíncrono estimado en 2 y sesión presencial de 3h
 
+### Próximos cursos
+
+** Fechas y lugares por determinar **
+
+
 ### Fechas de cursos ya pasados
 
 #### Piloto 1 en la URJC
