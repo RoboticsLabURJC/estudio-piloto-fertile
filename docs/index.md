@@ -44,7 +44,7 @@ Los contenidos del curso están repartidos de la siguiente manera:
 
 ### Próximos cursos
 
-** Fechas y lugares por determinar **
+**Fechas y lugares por determinar**
 
 
 ### Fechas de cursos ya pasados
