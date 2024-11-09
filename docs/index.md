@@ -44,7 +44,18 @@ Los contenidos del curso están repartidos de la siguiente manera:
 
 ### Próximos cursos
 
-**Fechas y lugares por determinar**
+#### ME Fertile Comunidad de Madrid
+
+Fechas por determinar.
+En [esta página](ME_Madrid.md) se encuentra toda la información referente a este curso.
+
+
+#### ME Fertile en Valladolid
+
+Las sesiones presenciales serán:
++ el **martes 26 de noviembre** 
++ el **jueves 28 de noviembre**
++ el **martes 3 de diciembre**
 
 
 ### Fechas de cursos ya pasados
