@@ -95,7 +95,7 @@ En este taller se dará una visión general de diferentes materiales de robótic
 	
 	* [Robótica y arte con Nehza](https://www.youtube.com/watch?v=UHPMTvgIQKA&list=PL1xHqPEGzU_InVaW-oB_Cq4kVhZrM5Jq8&index=6)
 	
-	* [Propuesta de trabajo con Nehza]()
+	* [Propuesta de trabajo con Nehza](materiales/Mat_Nehza.pdf))
 
 + **Makey-Makey**
 
