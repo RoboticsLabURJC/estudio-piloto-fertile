@@ -107,7 +107,7 @@ En este taller se dará una visión general de diferentes materiales de robótic
 
 	* [Simulador TinkerCad para Arduino](https://youtu.be/-qhns-zH3ZE?si=1OJWhBo90RU2_o8Z)
 
-	* [Propuesta de trabajo con Arduino]()
+	* [Propuesta de trabajo con Arduino](materiales/Mat_Arduino.pdf)
 
 +  **True-True**
 
