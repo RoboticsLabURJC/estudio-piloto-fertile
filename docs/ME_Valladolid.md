@@ -106,7 +106,7 @@ En este módulo haremos una introducción al aprendizaje mixto (blended learning
 En el taller trabajaremos de manera práctica con varios simuladores robóticos, en concreto usaremos: MakeCode de Microbit, TinkerCad para Arduino y Kibotics.
 
 
-## 3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CIFE Valladolid)
+## 3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CFIE Valladolid)
 
 Esta sesión tendrá dos partes. En la primera hablaremos en detalle de la metodología FERTILE y en la segunda haremos una introducción a la plataforma comunitaria de FERTILE para que, haciendo uso de esta herramienta podáis diseñar un proyecto de robótica, siguiendo la metodología FERTILE.
  
