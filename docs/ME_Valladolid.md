@@ -6,10 +6,10 @@ Este curso está financiado por el proyecto europeo Erasmus+ [FERTILE](https://f
 
 Este curso tiene una duración estimada de 10h: 8 presenciales y 2 de aplicación en el aula. Las 8 horas presenciales estarán repartidas en 3 sesiones, dos sesiones de 2h30m de duración y una sesión de 3h. Usaréis y aprenderéis tecnologías docentes punteras y equipamiento educativo, tanto robots simulados como robots físicos. 
 
-##Metodología.
+## 1. Metodología.
 La metodología que empleamos está basada en la práctica y la experimentación tanto con materiales de robótica diversos como con simuladores. También usaremos la plataforma comunitaria para el desarrollo de proyectos en el marco de la metodología FERTILE.
 
-##Objetivos 
+## 2. Objetivos 
 
 1. Introducción a la robótica educativa: robots educativos y simuladores más empleados en los distintos niveles educativos.
 2. Creación de proyectos interdisciplinares de robótica y arte.
@@ -17,14 +17,15 @@ La metodología que empleamos está basada en la práctica y la experimentación
 4. Introducción al aprendizaje mixto: uso de simuladores.
 5. Porfundización en la metodología FERTILE. Diseño de un proyecto educativo usando esta metodología.
 
-##Contenidos  
+## 3. Contenidos  
 1. Habilidades de pensamiento computacional. Qué son y cómo trabajarlas en el aula desde diferentes enfoques.
 2. Interdisciplinariedad. Cómo combinar robótica con distintas modalidades de arte para trabajar el pensamiento computacional en el aula. Trabajo con distintos tipos de materiales de robótica en proyectos con componentes artísticos.
 3. Aprendizaje mixto. El uso de los simuladores como herramienta para el aprendizaje mixto. Prácticas con un simulador de robótica: el simulador Kibotics.
 4. Metodología de diseño FERTILE: cómo diseñar un proyecto educativo para trabajar habilidades de pensamiento computacional usando la robótica y el arte.
 5. Co-diseño de proyectos educativos. Empleo de la plataforma comunitaria para desarrollar proyectos educativos en el marco de la metodología FERTILE.
 
-## 1. Sesión presencial (1) (Martes 23 de noviembre de 2024 de 16:30h a 19:00h en el CFIE Valladolid)
+## 4. Organización del curso
+### S1. Sesión presencial (1) (Martes 26 de noviembre de 2024 de 16:30h a 19:00h en el CFIE Valladolid)
 
 Este primera sesión constará de tres partes: 
 
@@ -34,28 +35,28 @@ Este primera sesión constará de tres partes:
 
 3. Interdisciplinariedad: cómo trabajar las habilidades de pensamiento computacional uniendo robótica y arte.
 
-### 1.1. Introducción al curso. La metodología FERTILE
+#### S1.1. Introducción al curso. La metodología FERTILE
 
 Presentaremos en proyecto FERTILE, los contenidos de cada una de las sesiones del curso y los materiales que se han desarrollado en el proyecto y que están disponibles en abierto para cualquier persona que pueda estar interesada.
 
-### 1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
+#### S1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
 
 
 El objetivo es la reflexión sobre las habilidades de pensamiento computacional (CT) y el conocimiento de actividades educativas diseñadas para cultivarlo.
 
 Trabajaremos en profundidad estas habilidades mediante el taller sobre **habilidades del pensamiento computacional**.  [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller.
 
-### 1.3 Interdisciplinariedad (Módulo 2)
+#### S1.3 Interdisciplinariedad (Módulo 2)
 
 
-#### Creación de un proyecto de arte y robótica
+##### Creación de un proyecto de arte y robótica
 
 Tras conocer diferentes proyectos de arte y robótica es vuestro turno de empezar a pensar en un proyecto propio. En grupos de 2 ó 3 personas tenéis que comenzar a diseñar un proyecto que combine arte y robótica. Pensad en aplicarlo al nivel educativo que más os interese por vuestra formación o práctica profesional. Sería estupendo que en el mismo equipo tuviérais profesores (o futuros profesores) de la rama robótica o técnica y de artes. ¡El objetivo es trabajar juntos!
 
 Para guiaros en el desarrollo del proyecto tendréis que rellenar esta [ficha de trabajo](materiales/Interdis_01.pdf)
 
 
-## 2. Sesión presencial (2) (Jueves 28 de noviembre de 2024 de 16:30h a 19:00h en CFIE Valladolid)
+### S2. Sesión presencial (2) (Jueves 28 de noviembre de 2024 de 16:30h a 19:00h en CFIE Valladolid)
 
 Esta sesión tendrá dos partes:
 
@@ -63,11 +64,10 @@ Esta sesión tendrá dos partes:
 
 2. Trabajo con simuladores de robótica educativa. 
 
-### 2.1 Materiales de robótica educativa
+#### S2.1 Materiales de robótica educativa
 
-Antes de comenzar a trabajar con los materiales exploraremos algunas ideas y ejemplos de proyectos que combinan robótica y arte a través de esta presentación interactiva.    * [Presentación interactiva. Ejemplos de arte y robótica](https://view.genial.ly/65855eb2d9b7b10014e3255b/presentation-examplesartroboticsspa)
+Antes de comenzar a trabajar con los materiales exploraremos algunas ideas y ejemplos de proyectos que combinan robótica y arte a través de esta presentación interactiva.    [Presentación interactiva. Ejemplos de arte y robótica](https://view.genial.ly/65855eb2d9b7b10014e3255b/presentation-examplesartroboticsspa)
 
-En el canal de YouTube del proyecto FERTILE tenéis la descripción detallada de varios proyectos desarrollados usando la metodología FERTILE. Comentaremos alguno de ellos entre todos. [Lista de vídeos con ejemplos de proyectos FERTILE](https://www.youtube.com/watch?v=-tVMhp0KQY4&list=PL1xHqPEGzU_InVaW-oB_Cq4kVhZrM5Jq8&pp=iAQB)
 
 Podréis usar los materiales que más se adapten a vuestro proyecto e intereses Aquí tenéis algunos ejemplos:
 
@@ -115,14 +115,14 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 
 	* [Propuesta de trabajo con Mbot] ()
 
-### 2.4 Blended learning (Módulo 4)
+#### S2.4 Blended learning (Módulo 4)
 
 En este módulo haremos una introducción al aprendizaje mixto (blended learning) y en concreto al aprendizaje mixto en robótica usando simuladores.
 
 En el taller trabajaremos de manera práctica con varios simuladores robóticos, en concreto usaremos: MakeCode de Microbit, TinkerCad para Arduino y Kibotics.
 
 
-## 3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CFIE Valladolid)
+### S3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CFIE Valladolid)
 
 Esta sesión tendrá dos partes:
 
@@ -130,7 +130,7 @@ Esta sesión tendrá dos partes:
 
 2. Taller de introducción a la plataforma comunitaria de FERTILE para que, haciendo uso de esta herramienta podáis diseñar un proyecto de robótica, siguiendo la metodología FERTILE.
  
-### 3.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
+#### S3.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
 
 El objetivo de este módulo es conocer en profundidad la metodología FERTILE. Con lo aprendido en todo el curso cada equipo diseñaréis un proyecto de robótica y arte siguiendo los pasos de la metodología FERTILE.
 
@@ -141,7 +141,7 @@ En esta sesión emplearemos:
   + Trabajaréis en grupos analizando los ejemplos vistos completando [esta hoja de trabajo](materiales/FDM_01.pdf)
 
 
-### 3.2 Introducción a la Community Platform (CP) (Módulo 5) 
+#### S3.2 Introducción a la Community Platform (CP) (Módulo 5) 
 
 El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo la metodología FERTILE a través de la herramienta CP que pretende facilitar el proceso. Para ello contaremos con las siguientes herramientas:
 
@@ -150,11 +150,11 @@ El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo l
 + [Hoja de trabajo](https://docs.google.com/forms/d/e/1FAIpQLSdLh7BXIRjz79Z4s48J9QChLrT2JvZPuK1FWjCDUhTHOacyzQ/viewform?usp=sf_link)
 
 
-### 3.3 Evaluación de un proyecto de robótica y arte siguiendo FDM (Módulo 5)
+#### S3.3 Evaluación de un proyecto de robótica y arte siguiendo FDM (Módulo 5)
 
 Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
 
-## 4. Materiales disponibles para profundizar en los contenidos
+## 5. Materiales disponibles para profundizar en los contenidos
 
 Los participantes tendréis disponibles diversos materiales para profundizar en los contenidos del curso
 
