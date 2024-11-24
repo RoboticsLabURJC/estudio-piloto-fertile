@@ -103,17 +103,17 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 
 +  **Bee-Bot**
 
-	* [Propuesta de trabajo con BeeBot] (materiales/Mat_BeeBot.pdf)
+	* [Propuesta de trabajo con BeeBot](materiales/Mat_BeeBot.pdf)
 
 
 +  **OzoBot**
 
-	* [Propuesta de trabajo con OzoBot] (materiales/Mat_OzoBot.pdf)
+	* [Propuesta de trabajo con OzoBot](materiales/Mat_OzoBot.pdf)
 
 
 +  **Mbot**
 
-	* [Propuesta de trabajo con Mbot] (materiales/Mat_Mbot.pdf)
+	* [Propuesta de trabajo con Mbot](materiales/Mat_Mbot.pdf)
 
 #### S2.4 Blended learning (Módulo 4)
 
