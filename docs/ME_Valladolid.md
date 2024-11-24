@@ -87,7 +87,7 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 	
 	* [Robótica y arte con Nehza](https://www.youtube.com/watch?v=UHPMTvgIQKA&list=PL1xHqPEGzU_InVaW-oB_Cq4kVhZrM5Jq8&index=6)
 	
-	* [Propuesta de trabajo con Nehza](materiales/Mat_Nehza.pdf))
+	* [Propuesta de trabajo con Nehza](materiales/Mat_Nehza.pdf)
 
 + **Makey-Makey**
 
