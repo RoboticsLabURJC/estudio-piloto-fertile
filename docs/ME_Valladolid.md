@@ -154,6 +154,12 @@ El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo l
 
 Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
 
+#### S3.4 Cuestionarios de evaluación
+
+En este cuestionario recogemos [la evaluación del curso](https://docs.google.com/forms/d/e/1FAIpQLSfyGCkD5xQ5qwFKw9lrBTn2ynMtB9SsJ0iRI_or2KVGR_NCuA/viewform)
+
+En este otro cuestionario recogemos vuestras opiniones [sobre la FDM y la plataforma](https://docs.google.com/forms/d/e/1FAIpQLSc32g2NPEM8JZFdsvk8mxyXq2-4ca3UKYEI5AlkIGaf9apsvg/viewform)
+
 ## 5. Materiales disponibles para profundizar en los contenidos
 
 Los participantes tendréis disponibles diversos materiales para profundizar en los contenidos del curso
