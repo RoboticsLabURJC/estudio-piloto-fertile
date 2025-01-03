@@ -1,57 +1,73 @@
 # Proyecto FERTILE. Evento multiplicador (ME) en CFIE Valladolid
 
-Bienvenidos al ME-FERTILE **Introducción a la metodología de diseño FERTILE** en colaboración con el CFIE Valladolid.
+Bienvenidos al ME-FERTILE **Introducción a la metodología de diseño FERTILE** que se realiza en colaboración con el CFIE Valladolid.
 
 Este curso está financiado por el proyecto europeo Erasmus+ [FERTILE](https://fertile-project.eu/). En este [video](https://youtu.be/zb7qgJyj5_U) podéis conocer algo más acerca del proyecto. El objetivo general del curso es **facilitar la enseñanza de robótica y de pensamiento computacional combinando robots y artes** (pintura, teatro, música, etc..).
 
-Este curso tiene una duración estimada de 10h: 8 presenciales y 2 de aplicación. Constará de tres sesiones presenciales.  Usaréis y aprenderéis tecnologías docentes punteras y equipamiento educativo, tanto robots simulados como robots físicos. 
+Este curso tiene una duración estimada de 10h: 8 presenciales y 2 de aplicación en el aula. Las 8 horas presenciales estarán repartidas en 3 sesiones, dos sesiones de 2h30m de duración y una sesión de 3h. Usaréis y aprenderéis tecnologías docentes punteras y equipamiento educativo, tanto robots simulados como robots físicos. 
 
-##Metodología.
-Basada en la práctica y la experimentación tanto con materiales de robótica diversos como con simuladores. También se usará la plataforma comunitaria para el desarrollo de proyectos en el marco de la metodología FERTILE.
+## 1. Metodología.
+La metodología que empleamos está basada en la práctica y la experimentación tanto con materiales de robótica diversos como con simuladores. También usaremos la plataforma comunitaria para el desarrollo de proyectos en el marco de la metodología FERTILE.
 
-##Objetivos 
+## 2. Objetivos 
 
 1. Introducción a la robótica educativa: robots educativos y simuladores más empleados en los distintos niveles educativos.
-2. Cómo crear proyectos interdisciplinares de robótica y arte.
-3. Las habilidades del pensamiento computacional: cómo trabajarlas desde la combinación de robótica y el arte
+2. Creación de proyectos interdisciplinares de robótica y arte.
+3. Profundización en las habilidades del pensamiento computacional: cómo trabajarlas desde la combinación de robótica y el arte
 4. Introducción al aprendizaje mixto: uso de simuladores.
-5. Conocer en profundidad la metodología FERTILE. Diseñar un proyecto educativo usando esta metodología.
+5. Porfundización en la metodología FERTILE. Diseño de un proyecto educativo usando esta metodología.
 
-##Contenidos  
+## 3. Contenidos  
 1. Habilidades de pensamiento computacional. Qué son y cómo trabajarlas en el aula desde diferentes enfoques.
 2. Interdisciplinariedad. Cómo combinar robótica con distintas modalidades de arte para trabajar el pensamiento computacional en el aula. Trabajo con distintos tipos de materiales de robótica en proyectos con componentes artísticos.
 3. Aprendizaje mixto. El uso de los simuladores como herramienta para el aprendizaje mixto. Prácticas con un simulador de robótica: el simulador Kibotics.
 4. Metodología de diseño FERTILE: cómo diseñar un proyecto educativo para trabajar habilidades de pensamiento computacional usando la robótica y el arte.
 5. Co-diseño de proyectos educativos. Empleo de la plataforma comunitaria para desarrollar proyectos educativos en el marco de la metodología FERTILE.
 
-## 1. Sesión presencial (1) (Martes 23 de noviembre de 2024 de 16:30h a 19:00h en el CFIE Valladolid)
+## 4. Organización del curso
+### S1. Sesión presencial (1) (Martes 26 de noviembre de 2024 de 16:30h a 19:00h en el CFIE Valladolid)
 
-Este primera sesión constará de tres partes: primero una introducción al curso, presentación del proyecto FERTILE y descripción de las sesiones y materiales; en segundo lugar un taller sobre habilidades de pensamiento computacional y en tercer lugar abordaremos la interdisciplinariedad, en nuestro caso cómo trabajar las habilidades de pensamiento computacional uniendo robótica y arte.
+Este primera sesión constará de tres partes: 
 
-### 1.1. Introducción al curso. La metodología FERTILE
+1. Introducción al curso, presentación del proyecto FERTILE y descripción de las sesiones y materiales.
 
-### 1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
+2. Taller sobre habilidades de pensamiento computacional.
+
+3. Interdisciplinariedad: cómo trabajar las habilidades de pensamiento computacional uniendo robótica y arte.
+
+#### S1.1. Introducción al curso. La metodología FERTILE
+
+Presentaremos en proyecto FERTILE, los contenidos de cada una de las sesiones del curso y los materiales que se han desarrollado en el proyecto y que están disponibles en abierto para cualquier persona que pueda estar interesada.
+
+#### S1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
 
 
 El objetivo es la reflexión sobre las habilidades de pensamiento computacional (CT) y el conocimiento de actividades educativas diseñadas para cultivarlo.
 
-Taller sobre **habilidades del pensamiento computacional**.  [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller de habilidades de pensamiento computacional.
+Trabajaremos en profundidad estas habilidades mediante el taller sobre **habilidades del pensamiento computacional**.  [Esta presentación](materiales/CT_03.pdf) es la que usamos en el taller.
 
-### 1.3 Interdisciplinariedad (Módulo 2)
+#### S1.3 Interdisciplinariedad (Módulo 2)
 
-#### Creación de un proyecto de arte y robótica
+
+##### Creación de un proyecto de arte y robótica
 
 Tras conocer diferentes proyectos de arte y robótica es vuestro turno de empezar a pensar en un proyecto propio. En grupos de 2 ó 3 personas tenéis que comenzar a diseñar un proyecto que combine arte y robótica. Pensad en aplicarlo al nivel educativo que más os interese por vuestra formación o práctica profesional. Sería estupendo que en el mismo equipo tuviérais profesores (o futuros profesores) de la rama robótica o técnica y de artes. ¡El objetivo es trabajar juntos!
 
 Para guiaros en el desarrollo del proyecto tendréis que rellenar esta [ficha de trabajo](materiales/Interdis_01.pdf)
 
 
+### S2. Sesión presencial (2) (Jueves 28 de noviembre de 2024 de 16:30h a 19:00h en CFIE Valladolid)
 
-## 2. Sesión presencial (2) (Jueves 28 de noviembre de 2024 de 16:30h a 19:00h en CFIE Valladolid)
+Esta sesión tendrá dos partes:
 
-Esta sesión tendrá dos partes. En la primera tendréis ocasión de trabajar con distintos materiales de robótica educativa. Aunque la idea es que exploréis libremente los materiales que más os interesen tenéis algunas fichas de trabajo con ideas para que podáis probarlas.
+1. Trabajo con distintos materiales de robótica educativa. Aunque la idea es que exploréis libremente los materiales que más os interesen tenéis algunas fichas de trabajo con ideas para que podáis probarlas.
 
-### 2.1 Materiales de robótica educativa
+2. Trabajo con simuladores de robótica educativa. 
+
+#### S2.1 Materiales de robótica educativa
+
+Antes de comenzar a trabajar con los materiales exploraremos algunas ideas y ejemplos de proyectos que combinan robótica y arte a través de esta presentación interactiva.    [Presentación interactiva. Ejemplos de arte y robótica](https://view.genial.ly/65855eb2d9b7b10014e3255b/presentation-examplesartroboticsspa)
+
 
 Podréis usar los materiales que más se adapten a vuestro proyecto e intereses Aquí tenéis algunos ejemplos:
 
@@ -71,7 +87,7 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 	
 	* [Robótica y arte con Nehza](https://www.youtube.com/watch?v=UHPMTvgIQKA&list=PL1xHqPEGzU_InVaW-oB_Cq4kVhZrM5Jq8&index=6)
 	
-	* [Propuesta de trabajo con Nehza](materiales/Mat_Nehza.pdf))
+	* [Propuesta de trabajo con Nehza](materiales/Mat_Nehza.pdf)
 
 + **Makey-Makey**
 
@@ -87,32 +103,36 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 
 +  **Bee-Bot**
 
-	* [Propuesta de trabajo con BeeBot] ()
+	* [Propuesta de trabajo con BeeBot](materiales/Mat_BeeBot.pdf)
 
 
 +  **OzoBot**
 
-	* [Propuesta de trabajo con OzoBot] ()
+	* [Propuesta de trabajo con OzoBot](materiales/Mat_OzoBot.pdf)
 
 
 +  **Mbot**
 
-	* [Propuesta de trabajo con Mbot] ()
+	* [Propuesta de trabajo con Mbot](materiales/Mat_Mbot.pdf)
 
-### 2.4 Blended learning (Módulo 4)
+#### S2.4 Blended learning (Módulo 4)
 
 En este módulo haremos una introducción al aprendizaje mixto (blended learning) y en concreto al aprendizaje mixto en robótica usando simuladores.
 
 En el taller trabajaremos de manera práctica con varios simuladores robóticos, en concreto usaremos: MakeCode de Microbit, TinkerCad para Arduino y Kibotics.
 
 
-## 3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CFIE Valladolid)
+### S3. Sesión presencial (3) (Martes 3 de diciembre de 2024 de 16:30h a 19:30h en CFIE Valladolid)
 
-Esta sesión tendrá dos partes. En la primera hablaremos en detalle de la metodología FERTILE y en la segunda haremos una introducción a la plataforma comunitaria de FERTILE para que, haciendo uso de esta herramienta podáis diseñar un proyecto de robótica, siguiendo la metodología FERTILE.
+Esta sesión tendrá dos partes:
+
+1. Metodología FERTILE (**F**ertile **D**esign **M**etodology **FDM**)
+
+2. Taller de introducción a la plataforma comunitaria de FERTILE para que, haciendo uso de esta herramienta podáis diseñar un proyecto de robótica, siguiendo la metodología FERTILE.
  
-### 3.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
+#### S3.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
 
-El objetivo de este módulo es conocer en profundidad la metodología FERTILE. Con lo aprendido en todo el curso cada equipo tendrá que diseñar un proyecto de robótica y arte siguiendo los pasos de la metodología FERTILE y realizar la evaluación.
+El objetivo de este módulo es conocer en profundidad la metodología FERTILE. Con lo aprendido en todo el curso cada equipo diseñaréis un proyecto de robótica y arte siguiendo los pasos de la metodología FERTILE.
 
 En esta sesión emplearemos:
 
@@ -121,7 +141,7 @@ En esta sesión emplearemos:
   + Trabajaréis en grupos analizando los ejemplos vistos completando [esta hoja de trabajo](materiales/FDM_01.pdf)
 
 
-### 3.2 Introducción a la Community Platform (CP) (Módulo 5) 
+#### S3.2 Introducción a la Community Platform (CP) (Módulo 5) 
 
 El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo la metodología FERTILE a través de la herramienta CP que pretende facilitar el proceso. Para ello contaremos con las siguientes herramientas:
 
@@ -130,11 +150,17 @@ El objetivo será presentar la CP y mostrar cómo se hace un diseño siguiendo l
 + [Hoja de trabajo](https://docs.google.com/forms/d/e/1FAIpQLSdLh7BXIRjz79Z4s48J9QChLrT2JvZPuK1FWjCDUhTHOacyzQ/viewform?usp=sf_link)
 
 
-### 3.3 Evaluación de un proyecto de robótica y arte siguiendo FDM (Módulo 5)
+#### S3.3 Evaluación de un proyecto de robótica y arte siguiendo FDM (Módulo 5)
 
 Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
 
-## 4. Materiales disponibles para profundizar en los contenidos
+#### S3.4 Cuestionarios de evaluación
+
+En este cuestionario recogemos [la evaluación del curso](https://docs.google.com/forms/d/e/1FAIpQLSfyGCkD5xQ5qwFKw9lrBTn2ynMtB9SsJ0iRI_or2KVGR_NCuA/viewform)
+
+En este otro cuestionario recogemos vuestras opiniones [sobre la FDM y la plataforma](https://docs.google.com/forms/d/e/1FAIpQLSc32g2NPEM8JZFdsvk8mxyXq2-4ca3UKYEI5AlkIGaf9apsvg/viewform)
+
+## 5. Materiales disponibles para profundizar en los contenidos
 
 Los participantes tendréis disponibles diversos materiales para profundizar en los contenidos del curso
 
@@ -186,7 +212,6 @@ El objetivo de este módulo es introducir la interdisciplinariedad, en nuestro c
 Exploraréis las distintas categorías de los proyectos interdisciplinares de robótica y arte visualizando
 
    * [Vídeo: ejemplos de robótica y distintas formas de arte](https://youtu.be/_sl1joCKcFo?si=0FrBcauXpxwEfqcZ)
-   * [Presentación interactiva. Ejemplos de arte y robótica](https://view.genial.ly/65855eb2d9b7b10014e3255b/presentation-examplesartroboticsspa)
 
 ### Módulo 3: Pensamiento computacional
 
