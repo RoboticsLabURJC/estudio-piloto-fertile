@@ -12,7 +12,7 @@ Este curso tiene una duración estimada de 6 horas online-síncronas:
 
 3. Aprendizaje mixto (1h) **16 de enero de 18 a 19**
 
-4. Metodología de diseño FERTILE y co-diseño. (2h) **21 de enero de 17 a 19
+4. Metodología de diseño FERTILE y co-diseño. (2h) **21 de enero de 17 a 19**
 
 ## 1. Objetivos
 
@@ -48,11 +48,11 @@ Durante esta primera sesión abordaremos los siguientes temas:
 2. Taller sobre habilidades de pensamiento computacional.
 
 
-##### S1.1 Introducción al curso. La metodología FERTILE
+#### S1.1 Introducción al curso. La metodología FERTILE
 
 Presentaremos en proyecto FERTILE, los contenidos de cada una de las sesiones del curso y los materiales que se han desarrollado en el proyecto y que están disponibles en abierto para cualquier persona que pueda estar interesada.
 
-##### S1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
+#### S1.2 Pensamiento computacional. Taller de pensamiento computacional (Módulo 3)
 
 
 El objetivo es la reflexión sobre las habilidades de pensamiento computacional (CT) y el conocimiento de actividades educativas diseñadas para cultivarlo.
@@ -61,11 +61,9 @@ Taller sobre **habilidades del pensamiento computacional**.  [Esta presentación
 
 ### S2. Sesión 2 (Miércoles 15 de enero de 18:00 a 19:00)
 
-##### S2.1 Interdisciplinariedad (Módulo 2)
+En esta sesión nos dedicaremos a la interdisciplinariedad: cómo trabajar las habilidades de pensamiento computacional uniendo robótica y arte.
 
-3. Interdisciplinariedad: cómo trabajar las habilidades de pensamiento computacional uniendo robótica y arte.
-
-###### Creación de un proyecto de arte y robótica
+#### S2.1 Interdisciplinariedad (Módulo 2)
 
 Tras conocer diferentes proyectos de arte y robótica es vuestro turno de empezar a pensar en un proyecto propio. En grupos de 2 ó 3 personas tenéis que comenzar a diseñar un proyecto que combine arte y robótica. Pensad en aplicarlo al nivel educativo que más os interese por vuestra formación o práctica profesional. Sería estupendo que en el mismo equipo tuviérais profesores (o futuros profesores) de la rama robótica o técnica y de artes. ¡El objetivo es trabajar juntos!
 
@@ -92,7 +90,7 @@ En esta última sesión tendremos dos partes:
 
 3. Evaluación de un proyecto de arte y robótica.
 
-##### S4.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
+#### S4.1 Metodología de diseño FERTILE (FDM) (Módulo 5) 
 
 El objetivo de este módulo es conocer en profundidad la metodología FERTILE. Con lo aprendido en todo el curso cada equipo tendrá que diseñar un proyecto de robótica y arte siguiendo los pasos de la metodología FERTILE y realizar la evaluación.
 

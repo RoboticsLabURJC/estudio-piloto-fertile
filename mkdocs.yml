@@ -4,4 +4,5 @@ nav:
     - Principal: index.md
     - ME Madrid: ME_Madrid.md
     - ME Valladolid CFIE: ME_Valladolid.md
+    - ME Valladolid online: ME_Valladolid_online.md
 theme: mkdocs
