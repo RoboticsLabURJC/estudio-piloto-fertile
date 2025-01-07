@@ -59,6 +59,8 @@ Taller sobre **habilidades del pensamiento computacional**.  [Esta presentación
 
 Tras conocer diferentes proyectos de arte y robótica es vuestro turno de empezar a pensar en un proyecto propio. En grupos de 2 ó 3 personas tenéis que comenzar a diseñar un proyecto que combine arte y robótica. Pensad en aplicarlo al nivel educativo que más os interese por vuestra formación o práctica profesional. Sería estupendo que en el mismo equipo tuviérais profesores (o futuros profesores) de la rama robótica o técnica y de artes. ¡El objetivo es trabajar juntos!
 
+Trabajaremos sobre la relación de la robótica con distintas formas de arte usando [este vídeo] (https://www.youtube.com/watch?v=_sl1joCKcFo)
+
 Para guiaros en el desarrollo del proyecto tendréis que rellenar esta [ficha de trabajo](materiales/Interdis_01.pdf)
 
 
@@ -112,6 +114,9 @@ Podréis usar los materiales que más se adapten a vuestro proyecto e intereses 
 
 	* [Propuesta de trabajo con Arduino](materiales/Mat_Arduino.pdf)
 
++ **TrueTrue**
+
+	* [Propuesta de trabajo con TrueTrue](materiales/Mat_TrueTrue.pdf)
 
 #### S1.B.2 Introducción a la Community Platform (CP) (Módulo 5) 
 
