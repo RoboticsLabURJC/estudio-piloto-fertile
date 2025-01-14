@@ -117,7 +117,7 @@ Para ello haréis uso de esta [rúbrica de evaluación](materiales/FDM_02.pdf)
 
 En este cuestionario recogemos [la evaluación del curso](https://docs.google.com/forms/d/e/1FAIpQLSfyGCkD5xQ5qwFKw9lrBTn2ynMtB9SsJ0iRI_or2KVGR_NCuA/viewform)
 
-En este otro cuestionario recogemos vuestras opiniones [sobre la FDM y la plataforma](https://docs.google.com/forms/d/e/1FAIpQLSc32g2NPEM8JZFdsvk8mxyXq2-4ca3UKYEI5AlkIGaf9apsvg/viewform)
+En este otro cuestionario recogemos vuestras opiniones [sobre la FDM y la plataforma](https://forms.gle/87cwmdtmhzHWfBjD8)
 
 
 ## 3. Materiales disponibles para profundizar en los contenidos
